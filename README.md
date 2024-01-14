@@ -1,21 +1,21 @@
 # ACM_ecom
 React Redux app.
 
-Run Locally
+Run Locally:
 
-Clone the project
+Clone the project:
 git clone http_link
 
-Go to the project directory
+Go to the project directory:
 cd React_E-Commerce
 
-Install dependencies
+Install dependencies:
 npm install
 
-Start the server
+Start the server:
 npm start
 
-Tech Stack
+Tech Stack:
 React
 Redux
 Bootstrap
